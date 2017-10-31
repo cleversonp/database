@@ -1,1 +1,14 @@
-{}
+{
+    "bit": "database",
+    
+    "path": "dist/database.js",
+    
+    "version": "0.1.0",
+    
+    "author": "Nery Jr",
+    
+    "description": "Módulo Database",
+    
+    "dependencies": []
+  }
+  
